@@ -1,5 +1,7 @@
 🌍 Global Economic Indicator Analysis – World_Bank_data(2010-2025) 
 
+Dataset Link : Raw Data Set Link : https://www.kaggle.com/datasets/tanishksharma9905/global-economic-indicators-20102025
+
 📌 Project Overview
 
 This project analyzes global economic indicators using real-world data from the World Bank. The focus is on understanding trends in GDP, Tax Revenue, Inflation, and Economic Growth across multiple countries from 2010 to 2025.
