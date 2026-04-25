@@ -1,4 +1,4 @@
-🌍 Global Economic Indicator Analysis – World_Bank_data(2010-2025) 
+🌍 Global Economic Indicator Analysis – World_Bank_data(2010-2025)
 
 Dataset Link : Raw Data Set Link : https://www.kaggle.com/datasets/tanishksharma9905/global-economic-indicators-20102025
 
